@@ -1,0 +1,15 @@
+﻿# Build output: compiled tools, assembled programs, simulation dumps
+build/
+
+# Icarus Verilog / simulation
+*.vvp
+*.out
+*.vcd
+*.log
+
+# Editors and OS
+*~
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
