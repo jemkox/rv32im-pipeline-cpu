@@ -1,4 +1,4 @@
-// top.v - 5-stage pipelined RV32I CPU
+// top.v - 5-stage pipelined RV32IM CPU
 //
 //   IF -> ID -> EX -> MEM -> WB
 //
