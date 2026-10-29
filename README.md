@@ -1,6 +1,6 @@
 ﻿# RV32IM 5-Stage Pipelined CPU
 
-A pipelined RISC-V (RV32IM) processor in Verilog, verified by running
+A pipelined RISC-V (RV32IM) processor in SystemVerilog, verified by running
 programs on the RTL and on an independent C instruction-set model and
 comparing the final machine state.
 
